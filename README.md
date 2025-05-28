@@ -107,7 +107,7 @@ Ajudar a reduzir os focos de dengue com uso de tecnologia, otimizando o tempo de
 ## 📎 Documentação Complementar
 
 - [📄 Mockup do Aplicativo (PDF)](./Mockup_App_Cidadao+.pdf)
-- [🖥️ Apresentação Pitch Final (PDF)](./Pitch_Final_Cidadao+.pdf)
+- [🖥️ Apresentação Pitch Final (PDF)](arquivos/Pitch.pdf)
 
 > Esses documentos detalham visualmente o funcionamento do app, bem como os argumentos e estrutura apresentados no Hackatons.
 

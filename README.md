@@ -1,3 +1,4 @@
+
 # 🦟 Cidadão+ — Tecnologia e Drones no Combate à Dengue
 
 > Solução desenvolvida no Hackatons para apoiar a saúde pública com o uso responsável de drones e inteligência artificial.  
@@ -129,6 +130,20 @@ Se você conheceu esse projeto pelo LinkedIn e quer entender melhor, explore est
 
 Projeto criado por um time multidisciplinar focado em impacto social.  
 Se quiser saber mais, entre em contato! ✉️
+
+### 👥 Integrantes da Equipe
+
+Conheça as mentes por trás do **Cidadão+**, que trabalharam com dedicação para transformar tecnologia em benefício público:
+
+| Nome               | GitHub                                            |
+|--------------------|---------------------------------------------------|
+| 🧠 **Sávio**         | [Savio123d](https://github.com/Savio123d)         |
+| 🧠 **Gustavo Antonio** | [Gustavo-https](https://github.com/Gustavo-https) |
+| 🧠 **Guilherme Costa** | [Guilherme-strek](https://github.com/Guilherme-strek) |
+| 🧠 **Pierre Oliveira** | [Oliveira0704](https://github.com/Oliveira0704) |
+| 🧠 **Maeda**          | *(GitHub não informado)*                         |
+
+> 🔗 *Clique nos nomes para visitar os perfis dos integrantes no GitHub!*
 
 ---
 
